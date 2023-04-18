@@ -97,6 +97,11 @@ section {
   margin-inline: auto;
 }
 
+.two {
+  width: 500px;
+  height: 250px;
+}
+
 body {
   overflow-x: hidden;
 }
