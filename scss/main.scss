@@ -91,10 +91,10 @@ section{
 .container2 {
     margin-inline: auto;
 }
-.two{
-    width: 500px;
-    height: 250px;
-}
+// .two{
+//     width: 500px;
+//     height: 250px;
+// }
 
 body{
     overflow-x: hidden;
@@ -119,6 +119,14 @@ body{
    
     justify-content: space-around;
     margin-top: 10px;
+}
+
+.para10{
+    width: 600px;
+    margin-inline: auto;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 h4{
@@ -237,12 +245,21 @@ li {
     overflow-wrap: break-word;
 }
 
-}
+
 .container_p{
     .item3{
         margin-left: 0px;
     }
 }
+.para10 {
+    width: 300px;
+    margin-inline: auto;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+}
+
 
 @media only screen and (max-width: 780px){
     .one {
